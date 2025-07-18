@@ -64,7 +64,7 @@
         <br>Azure
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub" style="filter: invert(1);" />
         <br>GitHub
       </td>
       <td align="center" width="120">
@@ -82,7 +82,6 @@
     </tr>
   </table>
 </div>
-
 ## 🛠️ What I Build
 
 <div align="center">
@@ -139,7 +138,7 @@ func main() {
     router.GET("/developer", func(c *gin.Context) {
         c.JSON(200, gin.H{
             "message": "Welcome to my GitHub! 👋",
-            "developer": muhammad,
+            "developer": Siddique,
             "status": "Ready to build amazing things!",
             "timestamp": time.Now().Format(time.RFC3339),
         })
