@@ -7,7 +7,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikSaddique&theme=radical&hide_border=true&stroke=0000&background=0D1117&currStreakLabel=00D8FF" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MalikSaddique" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 🚀 Tech Stack & Tools
