@@ -76,6 +76,21 @@
         <br>Git
       </td>
     </tr>
+    <tr>
+      <td align="center" width="120">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="2" y="4" width="20" height="16" rx="2" stroke="#4F46E5" stroke-width="2" fill="none"/>
+          <path d="M7 9h10M7 13h6" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="18" cy="6" r="2" fill="#4F46E5"/>
+          <circle cx="18" cy="18" r="2" fill="#4F46E5"/>
+        </svg>
+        <br>NSQ
+      </td>
+      <td align="center" width="120"></td>
+      <td align="center" width="120"></td>
+      <td align="center" width="120"></td>
+      <td align="center" width="120"></td>
+    </tr>
   </table>
 </div>
 
