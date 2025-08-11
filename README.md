@@ -7,8 +7,6 @@
 <br/>
 
 ## 🚀 Tech Stack & Tools
-
-## 🚀 Tech Stack & Tools
 <div align="center">
   <table>
     <tr>
