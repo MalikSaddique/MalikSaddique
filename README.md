@@ -8,6 +8,7 @@
 
 ## 🚀 Tech Stack & Tools
 
+## 🚀 Tech Stack & Tools
 <div align="center">
   <table>
     <tr>
@@ -86,14 +87,16 @@
         </svg>
         <br>NSQ
       </td>
-      <td align="center" width="120"></td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="WebSockets" />
+        <br>WebSockets
+      </td>
       <td align="center" width="120"></td>
       <td align="center" width="120"></td>
       <td align="center" width="120"></td>
     </tr>
   </table>
 </div>
-
 ## 🛠️ What I Build
 
 <div align="center">
