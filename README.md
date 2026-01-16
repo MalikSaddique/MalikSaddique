@@ -10,11 +10,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:0080FF&height=120&section=header&text=&fontSize=90&animation=fadeIn" />
 </div>
 
-## 🔥 Github Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MalikSaddique&theme=radical&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=00D8FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MalikSaddique" alt="GitHub Streak" /></a> -->
 
 ## 🎯 Professional Summary
 
@@ -148,13 +145,14 @@
   </table>
 </div>
 </details>
+<!-- Github analytics -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalikSaddique&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSaddique&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</div>
+<!-- <p align="center">
+  <a href="https://github.com/MalikSaddique">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalikSaddique&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSaddique&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF"/>
+  </a>
+</p> -->
 
 
 ## 🏗️ System Architecture Overview
