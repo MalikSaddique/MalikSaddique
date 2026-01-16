@@ -13,7 +13,7 @@
 ## 🔥 Github Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikSaddique&theme=radical&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=00D8FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MalikSaddique&theme=radical&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=00D8FF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Professional Summary
@@ -152,8 +152,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalikSaddique&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSaddique&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalikSaddique&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSaddique&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 
