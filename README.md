@@ -3,13 +3,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Go+Expert;Microservices+%26+Distributed+Systems;Cloud+Native+Solutions+Architect;DevOps+%26+Infrastructure+Enthusiast;Building+Scalable+High-Performance+APIs" alt="Typing SVG" />
 </div>
-
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:0080FF&height=120&section=header&text=&fontSize=90&animation=fadeIn" />
 </div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MalikSaddique&theme=tokyonight" />
+</p> 
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MalikSaddique" alt="GitHub Streak" /></a> -->
 
