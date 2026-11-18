@@ -24,7 +24,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalikSaddique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&ring_color=00D8FF" />
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=MalikSaddique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D8FF&icon_color=00D8FF&ring_color=00D8FF" /> -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSaddique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=00D8FF" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=MalikSaddique&theme=tokyonight&hide_border=true&ring=00D8FF&fire=FF6B35&currStreakLabel=00D8FF" />
